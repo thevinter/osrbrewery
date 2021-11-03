@@ -1,0 +1,9 @@
+.MuiCard-root{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.MuiCardMedia{
+    object-fit: contain;
+}
